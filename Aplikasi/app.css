@@ -1,0 +1,49 @@
+.navbar.bg{
+    background-color: black;
+    height: 8em;
+}
+
+.navbar p{
+    color: white;
+    text-decoration: none;
+    margin: 0;
+}
+
+.navbar button{
+    background-color:#e16363;
+}
+.navbar a{
+    text-decoration: none;
+    color: white;
+}
+
+ul .dropdown-menu {
+    background-color: black;
+}
+
+
+.carousel-inner{
+    height: 100vh;
+}
+
+.carousel-item.active{
+    height: 100vh;
+}
+
+.img-carousel{
+    opacity: 0.5;
+}
+
+.dark{
+    background-color: black;
+}
+
+.container.c-1{
+    margin-top: 4em;
+}
+
+
+
+footer {
+    margin-top: 4.5em;
+}
